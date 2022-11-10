@@ -1,0 +1,2 @@
+Depno =2
+dep loc = banglore
